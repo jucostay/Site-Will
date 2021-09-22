@@ -1,17 +1,17 @@
 body {
-width: 90%;
-max-width: 750px;
-margin: auto;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-color: black;
-line-height: 1;
-background: url(img/cinema.jpg);
+    width: 90%;
+    max-width: 750px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    line-height: 1;
+    background: url(img/cinema.jpg);
 }
 main {
-background: #ffffffdb;
-padding: 20px 40px;
-margin-top: 35px;
-border-radius: 20px;
+    background: #ffffffdb;
+    padding: 20px 40px;
+    margin-top: 35px;
+    border-radius: 20px;
 }
 
 h6 {
